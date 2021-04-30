@@ -1,0 +1,1 @@
+{"data": "## Node.js\n\n```javascript\nconsole.log(90 + '1')\n// \"901\"\nconsole.log(90 - '1')\n// 89\nconsole.log(\"Thank you javascript!\")\n```"}
